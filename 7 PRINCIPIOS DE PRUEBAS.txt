@@ -1,0 +1,12 @@
+  7 PRINCIPIOS DE PRUEBAS:
+
+1. Pruebas demuestran los defectos no su ausencia
+2. Pruebas exhaustivas no existen
+3. Pruebas Tempranas ahorran $ y tiempo
+4. Agrupación de defectos - pareto (80 defectos/20 modulos)
+5. Pesticida - mismas pruebas no eficaces para nuevos defectos  
+	SE necesita ACTUALIZAR TCS Y DATOS DE PRUEBA, NUEVAS TCS
+6. Pruebas dependen Contextos (riesgo factor critico para definir TCs necesarios)
+7. Falacia de ausencia de errores (esperar que encontrando y solucionando un gran num. de defectos 
+	se asegure el éxito del Sistema)
+
